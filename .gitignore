@@ -1,5 +1,6 @@
 backup
+opensource.samsung.com
 kernel
-*.zip
+.zip
 *.tar.gz
 *.pyc
