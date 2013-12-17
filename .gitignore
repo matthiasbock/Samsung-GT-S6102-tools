@@ -1,0 +1,5 @@
+backup
+kernel
+*.zip
+*.tar.gz
+*.pyc
